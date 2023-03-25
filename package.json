@@ -1,0 +1,22 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development --watch",
+    "prod": "webpack --mode production --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.76.2",
+    "webpack-cli": "^5.0.1"
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "eslint-config-airbnb": "^19.0.4",
+    "mini-css-extract-plugin": "^2.7.5"
+  }
+}

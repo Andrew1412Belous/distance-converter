@@ -1,0 +1,11 @@
+/*!******************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/assets/style/style.css ***!
+  \******************************************************************************/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&display=swap');
+
+body {
+    /*position: relative;*/
+    color: #5a5956;
+    font-family: 'Roboto', sans-serif;
+}
+
